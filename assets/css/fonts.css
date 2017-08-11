@@ -6,3 +6,10 @@
 	font-weight: normal;
 	font-style: normal;
 }
+main{height: 100%; background-color: rgba(0,0,0,.9);}
+h1{
+	font-family: 'Conv_Zdyk Pisces';
+	font-size: 5em;
+	color: #81d8db;
+	text-shadow: 2px 2px 30px #000000;
+}
